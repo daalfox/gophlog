@@ -1,3 +1,3 @@
 # Gophlog
 
-crud API using `net/http` and `gorm`
+CRUD API using `chi` and `gorm`
